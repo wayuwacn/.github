@@ -12,29 +12,6 @@
 
 ---
 
-> <strong>Note · 笔记</strong>  
-> 吃饭的时候吃饭，睡觉的时候睡觉  
-> 工作的时候工作，生活的时候生活
->
-> <strong>当前交付事项 · TODO List</strong>  
-> 这是熬夜的根本原因。
-
----
-
-## 项目
-
-| 仓库 | 说明 |
-|------|------|
-| [java_fuyao](https://github.com/wayuwacn/java_fuyao) |  |
-| [java_lingxiao](https://github.com/wayuwacn/java_lingxiao) |  |
-| [java_daili](https://github.com/wayuwacn/java_daili) |  |
-| [java_qd](https://github.com/wayuwacn/java_qd) |  |
-| [java_merge](https://github.com/wayuwacn/java_merge) |  |
-| [auto_backup](https://github.com/wayuwacn/auto_backup) | 游戏数据库自动备份系统 |
-| [game_manage_system](https://github.com/wayuwacn/game_manage_system) | 游戏区服管理系统 |
-
----
-
 <p align="center">
   <a href="https://wayuwa.cn">wayuwa.cn</a> — Crafted with care
 </p>
